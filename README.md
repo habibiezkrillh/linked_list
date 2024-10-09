@@ -108,3 +108,4 @@ void main() {
   list.display();
 }
 ```
+Ini merupakan contoh program Singly Linked List
